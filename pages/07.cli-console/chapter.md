@@ -1,11 +1,11 @@
 ---
 title: CLI Console
 taxonomy:
-    category: docs
+    category: sever
 ---
 
 ### Chapter 7
 
 # CLI Console
-
-**Grav** is developer friendly and provides many useful **command line tools and features** to make things as simple and as scriptable as possible.
+php -S localhost:8080 system/router.php
+**Grav** 
